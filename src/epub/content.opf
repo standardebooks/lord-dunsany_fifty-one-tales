@@ -86,15 +86,121 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-losing-game.xhtml" id="a-losing-game.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-mistaken-identity.xhtml" id="a-mistaken-identity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-moral-little-tale.xhtml" id="a-moral-little-tale.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-fire.xhtml" id="after-the-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/alone-the-immortals.xhtml" id="alone-the-immortals.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/charon.xhtml" id="charon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/compromise.xhtml" id="compromise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/death-and-odysseus.xhtml" id="death-and-odysseus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/death-and-the-orange.xhtml" id="death-and-the-orange.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/furrow-maker.xhtml" id="furrow-maker.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-enemy-came-to-thlunrana.xhtml" id="how-the-enemy-came-to-thlunrana.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/lobster-salad.xhtml" id="lobster-salad.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nature-and-time.xhtml" id="nature-and-time.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/roses.xhtml" id="roses.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spring-in-town.xhtml" id="spring-in-town.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/taking-up-picadilly.xhtml" id="taking-up-picadilly.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-assignation.xhtml" id="the-assignation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-city.xhtml" id="the-city.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-death-of-pan.xhtml" id="the-death-of-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-demagogue-and-the-demi-monde.xhtml" id="the-demagogue-and-the-demi-monde.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dream-of-king-karna-vootra.xhtml" id="the-dream-of-king-karna-vootra.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-food-of-death.xhtml" id="the-food-of-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-giant-poppy.xhtml" id="the-giant-poppy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-guest.xhtml" id="the-guest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hen.xhtml" id="the-hen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-latest-thing.xhtml" id="the-latest-thing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-city.xhtml" id="the-little-city.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lonely-idol.xhtml" id="the-lonely-idol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-with-the-golden-earrings.xhtml" id="the-man-with-the-golden-earrings.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-messengers.xhtml" id="the-messengers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mist.xhtml" id="the-mist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-poet-speaks-with-earth.xhtml" id="the-poet-speaks-with-earth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prayer-of-the-flowers.xhtml" id="the-prayer-of-the-flowers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-raft-builders.xhtml" id="the-raft-builders.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return-of-song.xhtml" id="the-return-of-song.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return-of-the-exiles.xhtml" id="the-return-of-the-exiles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-reward.xhtml" id="the-reward.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-song-of-the-blackbird.xhtml" id="the-song-of-the-blackbird.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-songless-country.xhtml" id="the-songless-country.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sphinx-at-gizeh.xhtml" id="the-sphinx-at-gizeh.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sphinx-in-thebes-massachusetts.xhtml" id="the-sphinx-in-thebes-massachusetts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-storm.xhtml" id="the-storm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-three-tall-sons.xhtml" id="the-three-tall-sons.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tomb-of-pan.xhtml" id="the-tomb-of-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-trouble-in-leafy-green-street.xhtml" id="the-trouble-in-leafy-green-street.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-true-history-of-the-hare-and-the-toroise.xhtml" id="the-true-history-of-the-hare-and-the-toroise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-unpasturable-fields.xhtml" id="the-unpasturable-fields.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-workman.xhtml" id="the-workman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-worm-and-the-angel.xhtml" id="the-worm-and-the-angel.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/time-and-the-tradesman.xhtml" id="time-and-the-tradesman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/what-we-have-come-to.xhtml" id="what-we-have-come-to.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wind-and-fog.xhtml" id="wind-and-fog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-assignation.xhtml"/>
+		<itemref idref="charon.xhtml"/>
+		<itemref idref="the-death-of-pan.xhtml"/>
+		<itemref idref="the-sphinx-at-gizeh.xhtml"/>
+		<itemref idref="the-hen.xhtml"/>
+		<itemref idref="wind-and-fog.xhtml"/>
+		<itemref idref="the-raft-builders.xhtml"/>
+		<itemref idref="the-workman.xhtml"/>
+		<itemref idref="the-guest.xhtml"/>
+		<itemref idref="death-and-odysseus.xhtml"/>
+		<itemref idref="death-and-the-orange.xhtml"/>
+		<itemref idref="the-prayer-of-the-flowers.xhtml"/>
+		<itemref idref="time-and-the-tradesman.xhtml"/>
+		<itemref idref="the-little-city.xhtml"/>
+		<itemref idref="the-unpasturable-fields.xhtml"/>
+		<itemref idref="the-worm-and-the-angel.xhtml"/>
+		<itemref idref="the-songless-country.xhtml"/>
+		<itemref idref="the-latest-thing.xhtml"/>
+		<itemref idref="the-demagogue-and-the-demi-monde.xhtml"/>
+		<itemref idref="the-giant-poppy.xhtml"/>
+		<itemref idref="roses.xhtml"/>
+		<itemref idref="the-man-with-the-golden-earrings.xhtml"/>
+		<itemref idref="the-dream-of-king-karna-vootra.xhtml"/>
+		<itemref idref="the-storm.xhtml"/>
+		<itemref idref="a-mistaken-identity.xhtml"/>
+		<itemref idref="the-true-history-of-the-hare-and-the-toroise.xhtml"/>
+		<itemref idref="alone-the-immortals.xhtml"/>
+		<itemref idref="a-moral-little-tale.xhtml"/>
+		<itemref idref="the-return-of-song.xhtml"/>
+		<itemref idref="spring-in-town.xhtml"/>
+		<itemref idref="how-the-enemy-came-to-thlunrana.xhtml"/>
+		<itemref idref="a-losing-game.xhtml"/>
+		<itemref idref="taking-up-picadilly.xhtml"/>
+		<itemref idref="after-the-fire.xhtml"/>
+		<itemref idref="the-city.xhtml"/>
+		<itemref idref="the-food-of-death.xhtml"/>
+		<itemref idref="the-lonely-idol.xhtml"/>
+		<itemref idref="the-sphinx-in-thebes-massachusetts.xhtml"/>
+		<itemref idref="the-reward.xhtml"/>
+		<itemref idref="the-trouble-in-leafy-green-street.xhtml"/>
+		<itemref idref="the-mist.xhtml"/>
+		<itemref idref="furrow-maker.xhtml"/>
+		<itemref idref="lobster-salad.xhtml"/>
+		<itemref idref="the-return-of-the-exiles.xhtml"/>
+		<itemref idref="nature-and-time.xhtml"/>
+		<itemref idref="the-song-of-the-blackbird.xhtml"/>
+		<itemref idref="the-messengers.xhtml"/>
+		<itemref idref="the-three-tall-sons.xhtml"/>
+		<itemref idref="compromise.xhtml"/>
+		<itemref idref="what-we-have-come-to.xhtml"/>
+		<itemref idref="the-tomb-of-pan.xhtml"/>
+		<itemref idref="the-poet-speaks-with-earth.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
