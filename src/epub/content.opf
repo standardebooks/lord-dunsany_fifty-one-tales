@@ -108,7 +108,7 @@
 		<item href="text/the-assignation.xhtml" id="the-assignation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-city.xhtml" id="the-city.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-pan.xhtml" id="the-death-of-pan.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-demagogue-and-the-demi-monde.xhtml" id="the-demagogue-and-the-demi-monde.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-demagogue-and-the-demimonde.xhtml" id="the-demagogue-and-the-demimonde.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dream-of-king-karna-vootra.xhtml" id="the-dream-of-king-karna-vootra.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-food-of-death.xhtml" id="the-food-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-giant-poppy.xhtml" id="the-giant-poppy.xhtml" media-type="application/xhtml+xml"/>
@@ -128,7 +128,7 @@
 		<item href="text/the-reward.xhtml" id="the-reward.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-song-of-the-blackbird.xhtml" id="the-song-of-the-blackbird.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-songless-country.xhtml" id="the-songless-country.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-sphinx-at-gizeh.xhtml" id="the-sphinx-at-gizeh.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sphinx-at-giza.xhtml" id="the-sphinx-at-giza.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sphinx-in-thebes-massachusetts.xhtml" id="the-sphinx-in-thebes-massachusetts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-storm.xhtml" id="the-storm.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-three-tall-sons.xhtml" id="the-three-tall-sons.xhtml" media-type="application/xhtml+xml"/>
@@ -151,7 +151,7 @@
 		<itemref idref="the-assignation.xhtml"/>
 		<itemref idref="charon.xhtml"/>
 		<itemref idref="the-death-of-pan.xhtml"/>
-		<itemref idref="the-sphinx-at-gizeh.xhtml"/>
+		<itemref idref="the-sphinx-at-giza.xhtml"/>
 		<itemref idref="the-hen.xhtml"/>
 		<itemref idref="wind-and-fog.xhtml"/>
 		<itemref idref="the-raft-builders.xhtml"/>
@@ -166,7 +166,7 @@
 		<itemref idref="the-worm-and-the-angel.xhtml"/>
 		<itemref idref="the-songless-country.xhtml"/>
 		<itemref idref="the-latest-thing.xhtml"/>
-		<itemref idref="the-demagogue-and-the-demi-monde.xhtml"/>
+		<itemref idref="the-demagogue-and-the-demimonde.xhtml"/>
 		<itemref idref="the-giant-poppy.xhtml"/>
 		<itemref idref="roses.xhtml"/>
 		<itemref idref="the-man-with-the-golden-earrings.xhtml"/>
