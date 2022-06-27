@@ -31,23 +31,24 @@
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047125</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7838</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/fiftyonetales00duns</dc:source>
+		<dc:source>https://archive.org/details/fiftyonetales00duns</dc:source>
+		<meta property="se:production-notes">The American and British editions each feature one story that the other doesn't. Both are included in this edition, for a total of 52 stories.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fifty-One_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_fifty-one-tales</meta>
 		<dc:creator id="author">Lord Dunsany</dc:creator>
-		<meta property="file-as" refines="#author">Dunsany, Lord</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lord_Dunsany</meta>
+		<meta property="file-as" refines="#author">Dunsany</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edward John Moreton Drax Plunkett</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80005394</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
@@ -55,13 +56,22 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anne Reshnyk</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Reshnyk, Anne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Suzanne L. Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Shell, Suzanne L.</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
