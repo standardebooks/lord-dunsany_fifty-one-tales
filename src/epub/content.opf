@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-07-20T20:09:11Z</dc:date>
+		<meta property="dcterms:modified">2022-07-20T20:09:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,17 +35,18 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A series of otherworldly short stories ranging from the moral to the whimsical.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany&lt;/a&gt; earned literary fame through his otherworldly short stories. This book compiles fifty-one of them, without a seeming theme except that they’re extremely short—sometimes as short as a few paragraphs. The stories range from morality tales, to dreamlike vignettes, to gloomy prophecies told in a foreboding voice. A thread of bleak humor sometimes runs through them, like with much of Dunsany’s literary output.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Fifty-One Tales&lt;/i&gt; was published simultaneously in England and America, with each edition featuring a story that the other did not. This Standard Ebooks edition is based on the ordering of the American edition, and includes the story that was only published in the English edition, bringing the total number of stories in this edition to fifty-two.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7838</dc:source>
 		<dc:source>https://archive.org/details/fiftyonetales00duns</dc:source>
 		<dc:source>https://archive.org/details/fiftyonetales00duns</dc:source>
 		<meta property="se:production-notes">The American and British editions each feature one story that the other doesn't. Both are included in this edition, for a total of 52 stories.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">16210</meta>
+		<meta property="se:reading-ease.flesch">77.77</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fifty-One_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_fifty-one-tales</meta>
 		<dc:creator id="author">Lord Dunsany</dc:creator>
