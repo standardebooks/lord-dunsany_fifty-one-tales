@@ -37,7 +37,7 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A series of otherworldly short stories ranging from the moral to the whimsical.</dc:abstract>
+		<meta property="schema:abstract">A series of otherworldly short stories ranging from the moral to the whimsical.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany&lt;/a&gt; earned literary fame through his otherworldly short stories. This book compiles fifty-one of them, without a seeming theme except that they’re extremely short—sometimes as short as a few paragraphs. The stories range from morality tales, to dreamlike vignettes, to gloomy prophecies told in a foreboding voice. A thread of bleak humor sometimes runs through them, like with much of Dunsany’s literary output.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Fifty-One Tales&lt;/i&gt; was published simultaneously in England and America, with each edition featuring a story that the other did not. This Standard Ebooks edition is based on the ordering of the American edition, and includes the story that was only published in the English edition, bringing the total number of stories in this edition to fifty-two.&lt;/p&gt;
