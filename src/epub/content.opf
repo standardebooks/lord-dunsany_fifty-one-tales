@@ -60,7 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Amadeo de Souza Cardoso</dc:contributor>
 		<meta property="file-as" refines="#artist">De Souza Cardoso, Amadeo</meta>
-		<link href="https://en.wikipedia.org/wiki/Amadeo_de_Souza_Cardoso" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Amadeo_de_Souza-Cardoso" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n84002217.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anne Reshnyk</dc:contributor>
